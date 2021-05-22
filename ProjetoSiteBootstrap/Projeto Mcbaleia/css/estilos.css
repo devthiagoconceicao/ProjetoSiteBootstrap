@@ -1,0 +1,50 @@
+html,
+body {
+	height: 100%;
+}
+body{
+    background-color: black;
+}
+.img-thumbnail {
+    float: right;
+}
+.jumbotron {
+   	background-color: rgba(0, 0, 0, .5);
+}
+.footer1 {
+    background-color:#e7e7e7; 
+    padding: 30px;
+	margin-top: 20px;
+}
+address {
+    float: left;
+}
+.redessociais li{
+    float: right;
+    display: inline-block;
+    text-decoration: none;
+    padding-right: 20px;
+}
+.vejamais {
+    float: right;
+}
+h1, h2 {
+    padding-bottom: 20px;
+    padding-top: 50px;
+}
+#fotos .thumbnail :hover{
+      -webkit-transform:rotate(-5deg);
+        transform:rotate(-5deg);
+}
+.parceiros {
+    float: left;
+}
+.parceiros li{
+    display: inline-block;
+    text-decoration: none;
+    padding-right: 20px;
+}
+.tcs {
+    float: right;
+     display: inline-block;
+}
